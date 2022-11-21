@@ -1,16 +1,7 @@
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-#count-down-timer{
-    width: 1000px;
-    height: 400px;
+#time {
+    font-size: 4rem;
+    color: #ffffff;
+    display: inline-block;
+    border: 3px solid #ef7f23;
     background-color: black;
-    border: 3px solid orange;
-    margin: 200px auto;
-    color: white;
-    font-size: 20rem;
-    padding-left: 4rem;
-    font-family: "sans-serif";
 }
